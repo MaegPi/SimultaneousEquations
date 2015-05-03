@@ -1,0 +1,8 @@
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\bin\Debug\simultaneousEquations.exe
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\bin\Debug\simultaneousEquations.pdb
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\quadratic.Form1.resources
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\quadratic.Properties.Resources.resources
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\simultaneousEquations.csproj.GenerateResource.Cache
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\simultaneousEquations.exe
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\simultaneousEquations.pdb
+C:\Users\Jessica\IT\c#\simultaneousEquations\simultaneousEquations\obj\x86\Debug\simultaneousEquations.csprojResolveAssemblyReference.cache
